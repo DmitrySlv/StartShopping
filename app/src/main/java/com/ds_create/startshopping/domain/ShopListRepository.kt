@@ -1,8 +1,8 @@
 package com.ds_create.startshopping.domain
 
-interface ShopListRepository {
+import androidx.lifecycle.LiveData
 
-    fun getShopList(): List<ShopItem>
+interface ShopListRepository {
 
     fun addShopItem(shopItem: ShopItem)
 
@@ -11,4 +11,6 @@ interface ShopListRepository {
     fun editShopItem(shopItem: ShopItem)
 
     fun getShopItem(shopItemId: Int): ShopItem
+
+    fun getShopList(): LiveData<List<ShopItem>>
 }
