@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StartShopping</string>
+    <string name="add_note_button">Add_note</string>
 </resources>
