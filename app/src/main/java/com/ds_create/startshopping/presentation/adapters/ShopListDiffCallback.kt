@@ -1,4 +1,4 @@
-package com.ds_create.startshopping.presentation.adapter
+package com.ds_create.startshopping.presentation.adapters
 
 import androidx.recyclerview.widget.DiffUtil
 import com.ds_create.startshopping.domain.ShopItem

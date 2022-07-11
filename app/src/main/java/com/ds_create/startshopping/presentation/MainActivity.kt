@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.ds_create.startshopping.R
-import com.ds_create.startshopping.presentation.adapter.ShopListAdapter
+import com.ds_create.startshopping.presentation.adapters.ShopListAdapter
 
 class MainActivity : AppCompatActivity() {
 
