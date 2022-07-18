@@ -1,4 +1,4 @@
-package com.ds_create.startshopping.presentation.ViewModels
+package com.ds_create.startshopping.presentation.viewModels
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.RecyclerView
 import com.ds_create.startshopping.R
-import com.ds_create.startshopping.presentation.ViewModels.MainViewModel
+import com.ds_create.startshopping.presentation.viewModels.MainViewModel
 import com.ds_create.startshopping.presentation.adapters.ShopListAdapter
 import com.google.android.material.floatingactionbutton.FloatingActionButton
 
